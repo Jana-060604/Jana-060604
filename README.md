@@ -23,10 +23,10 @@ I’m an enthusiastic **Computer Science and Engineering** student with a strong
 - Getting started with Cloud and DevOps as a beginner.
 
 ## 📫 How to Reach Me
-- **GitHub**: [Pavithra-51204](https://github.com/Jana-060604)
-- **LinkedIn**: [Pavithra-Manogaran](https://www.linkedin.com/in/janarthanan-n-902255250/)
-- **Email**: [pavithra.manogaran2004@gmail.com](mailto:janam8602@gmail.com)
-- **Medium**: [Pavithra-Manogaran](https://medium.com/@janam8602)
+- **GitHub**: [Jana-060604](https://github.com/Jana-060604)
+- **LinkedIn**: [Janarthanan-N](https://www.linkedin.com/in/janarthanan-n-902255250/)
+- **Email**: [janam8602@gmail.com](mailto:janam8602@gmail.com)
+- **Medium**: [Janarthanan-N](https://medium.com/@janam8602)
 
 ## 🛠 Technologies & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
